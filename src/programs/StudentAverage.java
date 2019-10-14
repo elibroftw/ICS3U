@@ -12,7 +12,7 @@ public class StudentAverage {
 	static String name;
 
 	public static void main(String[] args) {
-		System.out.println("Enter Students Name: ");
+		System.out.print("Enter Students Name: ");
 		name = sc.next();
 		System.out.println("Do you know how many marks to enter? (Y/N)");
 		String option = sc.next().toLowerCase();

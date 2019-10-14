@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class RightAngleTriangle {
 
 	/**
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

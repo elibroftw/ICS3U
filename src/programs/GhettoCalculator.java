@@ -8,6 +8,7 @@ public class GhettoCalculator {
 	 * This program will use switch and case statements
 	 * to provide the user with a list of options to
 	 * perform math functions on numbers
+	 * @author Elijah Lopez
 	 */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,6 +1,3 @@
-//Author: Eli Lopez
-//Date: April 5, 2017
-//Version 1.0
 package programs;
 
 import java.util.Scanner;

@@ -7,7 +7,7 @@ package programs;
 
 /**
  *
- * @author Eli
+ * @author Elijah Lopez
  */
 public class HeronFormula {
 	public static void main(String[] args) {

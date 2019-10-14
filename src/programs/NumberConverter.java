@@ -7,7 +7,7 @@ public class NumberConverter {
 	 * This program will convert Octal, Binary, Hexadecimal, Decimal to any other
 	 * number system Includes proper number format checking
 	 * 
-	 * @author Eli Lopez
+	 * @author Elijah Lopez
 	 */
 	static Scanner sc = new Scanner(System.in);
 	static int convertFrom;

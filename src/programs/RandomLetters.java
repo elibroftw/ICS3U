@@ -4,9 +4,10 @@ import java.util.Scanner;
 
 public class RandomLetters {
 
-	/*
+	/**
 	 * This program will ouput a random grid of letters mimichking a "Word Search"
 	 * ... without words.
+	 * @author Elijah Lopez
 	 */
 	static Scanner sc = new Scanner(System.in);
 	static int height, width;

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Fibonacci {
 
 	/**
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 	public static void main(String[] args) {
 

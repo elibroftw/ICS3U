@@ -3,7 +3,7 @@ package programs;
 public class BirthYear {
 
 	/**
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 	public static void main(String[] args) {
 

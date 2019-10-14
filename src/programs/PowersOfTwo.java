@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PowersOfTwo {
 
 	/**
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 	public static void main(String[] args) {
 

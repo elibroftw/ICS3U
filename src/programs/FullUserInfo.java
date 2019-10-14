@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class FullUserInfo {
 
 	/**
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 	static Scanner sc = new Scanner(System.in);
 	static PrintWriter pw;

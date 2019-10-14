@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Golf {
 
 	/**
-	 * @param args
-	 * @author eli
+	 * @author Elijah Lopez
 	 */
 	static Scanner sc = new Scanner(System.in);
 	static int[] pars;

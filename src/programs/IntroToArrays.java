@@ -8,7 +8,7 @@ public class IntroToArrays {
 	 * This program will teach you how to define, initialize and populate arrays
 	 * And, of course, what they are used for
 	 * 
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 	static Scanner sc = new Scanner(System.in);
 

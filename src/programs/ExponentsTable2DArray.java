@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ExponentsTable2DArray {
 
 	/**
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 	static Scanner sc = new Scanner(System.in);
 

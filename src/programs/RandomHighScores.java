@@ -14,7 +14,7 @@ public class RandomHighScores {
 	 * This program will generate a bunch of random numbres and keep the top ten
 	 * in a highscores file
 	 * 
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 
 	public static void main(String[] args) throws FileNotFoundException {

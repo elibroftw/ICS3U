@@ -3,8 +3,9 @@ package programs;
 import java.util.Scanner;
 
 public class SlotMachine {
-	/*
-	 * SLOTMACHINE BY: Elijah Lopez
+	/**
+	 * SLOTMACHINE BY:
+	 * @author Elijah Lopez
 	 * Version: 1.0
 	 */
 	public static void main(String[] args) {

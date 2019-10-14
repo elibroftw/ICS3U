@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class RandomGuesses {
 
 	/**
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

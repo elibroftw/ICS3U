@@ -5,10 +5,9 @@ import java.util.Scanner;
 public class Length30 {
 
 	/**
-	 * @param args
+	 * @author Elijah Lopez
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter first word: ");
 		String word = sc.next();

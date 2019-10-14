@@ -8,8 +8,9 @@ import java.util.Scanner;
 public class IntroToFiles {
 
 	/**
-	 * @author 1lopezeli This program will teach you how to save, write to, and
-	 *         read from a text file
+	 * @author Elijah Lopez
+	 * This program will teach you how to save, write to, and
+	 * read from a text file
 	 */
 	static Scanner sc = new Scanner(System.in);
 	static File names; // FILE OBJECT

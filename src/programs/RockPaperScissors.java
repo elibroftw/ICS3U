@@ -9,7 +9,7 @@ public class RockPaperScissors {
 	 * Scissors Lizard Spock
 	 * 
 	 * @param args
-	 * @author 1lopezeli
+	 * @author Elijah Lopez
 	 */
 	static Scanner sc = new Scanner(System.in);
 	static int pscore = 0;
@@ -45,7 +45,7 @@ public class RockPaperScissors {
 	public static String getPlayerChoice() {
 		String choice;
 		do {
-			System.out.println("Enter your throw: ");
+			System.out.print("Enter your throw: ");
 			choice = sc.next().toLowerCase();
 			if ((choice.equals("rock") == false) && (choice.equals("scissors") == false)
 					&& (choice.equals("paper") == false) && (choice.equals("lizard") == false)
