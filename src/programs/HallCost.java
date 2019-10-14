@@ -13,7 +13,6 @@ public class HallCost {
 		final double gratuity = 0.20;
 		final double tax = 0.13;
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter your name: ");
 		System.out.print("Enter number of guests: ");
 		int guests = sc.nextInt();
 		System.out.print("Enter cost per person: ");
